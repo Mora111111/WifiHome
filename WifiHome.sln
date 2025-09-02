@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.35906.104 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WifiHome", "WifiHome\WifiHome.csproj", "{EF7138F8-5CA7-4B55-A992-5778C2989912}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF7138F8-5CA7-4B55-A992-5778C2989912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF7138F8-5CA7-4B55-A992-5778C2989912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF7138F8-5CA7-4B55-A992-5778C2989912}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EF7138F8-5CA7-4B55-A992-5778C2989912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF7138F8-5CA7-4B55-A992-5778C2989912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF7138F8-5CA7-4B55-A992-5778C2989912}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10F5A3CA-C4ED-44ED-93ED-E9BA460A1075}
+	EndGlobalSection
+EndGlobal
